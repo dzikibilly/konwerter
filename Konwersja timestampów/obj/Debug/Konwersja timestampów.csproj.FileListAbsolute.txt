@@ -1,0 +1,33 @@
+C:\Różne\Mniej istotne\Visual\programy\Konwersja timestampów\Konwersja timestampów\bin\Debug\Konwersja timestampów.exe.config
+C:\Różne\Mniej istotne\Visual\programy\Konwersja timestampów\Konwersja timestampów\obj\Debug\Konwersja_timestampów.Form1.resources
+C:\Różne\Mniej istotne\Visual\programy\Konwersja timestampów\Konwersja timestampów\obj\Debug\Konwersja_timestampów.Properties.Resources.resources
+C:\Różne\Mniej istotne\Visual\programy\Konwersja timestampów\Konwersja timestampów\obj\Debug\Konwersja timestampów.csproj.GenerateResource.Cache
+C:\Różne\Mniej istotne\Visual\programy\Konwersja timestampów\Konwersja timestampów\bin\Debug\Konwersja timestampów.exe
+C:\Różne\Mniej istotne\Visual\programy\Konwersja timestampów\Konwersja timestampów\bin\Debug\Konwersja timestampów.pdb
+C:\Różne\Mniej istotne\Visual\programy\Konwersja timestampów\Konwersja timestampów\obj\Debug\Konwersja timestampów.exe
+C:\Różne\Mniej istotne\Visual\programy\Konwersja timestampów\Konwersja timestampów\obj\Debug\Konwersja timestampów.pdb
+C:\Różne\Mniej istotne\Visual\programy\Konwersja timestampów\Konwersja timestampów\obj\Debug\Konwersja timestampów.csprojResolveAssemblyReference.cache
+G:\Konwersja timestampów\Konwersja timestampów\bin\Debug\Konwersja timestampów.exe.config
+G:\Konwersja timestampów\Konwersja timestampów\obj\Debug\Konwersja timestampów.exe
+G:\Konwersja timestampów\Konwersja timestampów\obj\Debug\Konwersja timestampów.pdb
+G:\Konwersja timestampów\Konwersja timestampów\bin\Debug\Konwersja timestampów.exe
+G:\Konwersja timestampów\Konwersja timestampów\bin\Debug\Konwersja timestampów.pdb
+G:\Konwersja timestampów\Konwersja timestampów\obj\Debug\Konwersja_timestampów.Form1.resources
+G:\Konwersja timestampów\Konwersja timestampów\obj\Debug\Konwersja_timestampów.Properties.Resources.resources
+G:\Konwersja timestampów\Konwersja timestampów\obj\Debug\Konwersja timestampów.csproj.GenerateResource.Cache
+E:\Konwersja timestampów\Konwersja timestampów\bin\Debug\Konwersja timestampów.exe.config
+E:\Konwersja timestampów\Konwersja timestampów\obj\Debug\Konwersja timestampów.exe
+E:\Konwersja timestampów\Konwersja timestampów\obj\Debug\Konwersja timestampów.pdb
+E:\Konwersja timestampów\Konwersja timestampów\bin\Debug\Konwersja timestampów.exe
+E:\Konwersja timestampów\Konwersja timestampów\bin\Debug\Konwersja timestampów.pdb
+E:\Konwersja timestampów\Konwersja timestampów\obj\Debug\Konwersja_timestampów.Form1.resources
+E:\Konwersja timestampów\Konwersja timestampów\obj\Debug\Konwersja_timestampów.Properties.Resources.resources
+E:\Konwersja timestampów\Konwersja timestampów\obj\Debug\Konwersja timestampów.csproj.GenerateResource.Cache
+C:\Różne\Programowanie\Konwersja timestampów\Konwersja timestampów\bin\Debug\Konwersja timestampów.exe.config
+C:\Różne\Programowanie\Konwersja timestampów\Konwersja timestampów\bin\Debug\Konwersja timestampów.exe
+C:\Różne\Programowanie\Konwersja timestampów\Konwersja timestampów\bin\Debug\Konwersja timestampów.pdb
+C:\Różne\Programowanie\Konwersja timestampów\Konwersja timestampów\obj\Debug\Konwersja_timestampów.Form1.resources
+C:\Różne\Programowanie\Konwersja timestampów\Konwersja timestampów\obj\Debug\Konwersja_timestampów.Properties.Resources.resources
+C:\Różne\Programowanie\Konwersja timestampów\Konwersja timestampów\obj\Debug\Konwersja timestampów.csproj.GenerateResource.Cache
+C:\Różne\Programowanie\Konwersja timestampów\Konwersja timestampów\obj\Debug\Konwersja timestampów.exe
+C:\Różne\Programowanie\Konwersja timestampów\Konwersja timestampów\obj\Debug\Konwersja timestampów.pdb

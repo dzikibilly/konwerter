@@ -1,0 +1,11 @@
+D:\Różne\Rozmowa o pracę\IT\Zaczynamy programowac\do usuniecia\zapawa ze znakami\zapawa ze znakami\bin\Debug\zapawa ze znakami.exe.config
+D:\Różne\Rozmowa o pracę\IT\Zaczynamy programowac\do usuniecia\zapawa ze znakami\zapawa ze znakami\bin\Debug\zapawa ze znakami.exe
+D:\Różne\Rozmowa o pracę\IT\Zaczynamy programowac\do usuniecia\zapawa ze znakami\zapawa ze znakami\bin\Debug\zapawa ze znakami.pdb
+D:\Różne\Rozmowa o pracę\IT\Zaczynamy programowac\do usuniecia\zapawa ze znakami\zapawa ze znakami\obj\Debug\zapawa ze znakami.exe
+D:\Różne\Rozmowa o pracę\IT\Zaczynamy programowac\do usuniecia\zapawa ze znakami\zapawa ze znakami\obj\Debug\zapawa ze znakami.pdb
+D:\Różne\Rozmowa o pracę\IT\Zaczynamy programowac\do usuniecia\zapawa ze znakami\zapawa ze znakami\obj\Debug\zapawa ze znakami.csprojResolveAssemblyReference.cache
+E:\Konwersja timestampów\zapawa ze znakami\zapawa ze znakami\bin\Debug\zapawa ze znakami.exe.config
+E:\Konwersja timestampów\zapawa ze znakami\zapawa ze znakami\obj\Debug\zapawa ze znakami.exe
+E:\Konwersja timestampów\zapawa ze znakami\zapawa ze znakami\obj\Debug\zapawa ze znakami.pdb
+E:\Konwersja timestampów\zapawa ze znakami\zapawa ze znakami\bin\Debug\zapawa ze znakami.exe
+E:\Konwersja timestampów\zapawa ze znakami\zapawa ze znakami\bin\Debug\zapawa ze znakami.pdb
